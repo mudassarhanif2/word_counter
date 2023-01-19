@@ -55,7 +55,7 @@ async function askQuestion() {
     ])
     if(repeat.repeat){
         again = true
-        console.log(again)
+        // console.log(again)
     }else{
         again = false
     }
